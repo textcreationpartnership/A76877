@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XVI propositions concerning the raign and government of a king. Propounded, by the Right Honourable, Sir Francis Bacon, late Lord Chancellour of England. Wherein is shewed, 1. The power which God hath given to kings. 2. How a king ought to wear his crown. 3. To make religion the rule of government. 4. The danger in alteration of government. 5. The love which a king oweth to his subjects.</title>
+            <author>Bacon, Francis, 1561-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76877</idno>
+            <idno type="STC">Wing B325</idno>
+            <idno type="STC">Thomason E426_21</idno>
+            <idno type="STC">ESTC R204580</idno>
+            <idno type="EEBO-CITATION">99864053</idno>
+            <idno type="PROQUEST">99864053</idno>
+            <idno type="VID">161455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161455)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E426[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>XVI propositions concerning the raign and government of a king. Propounded, by the Right Honourable, Sir Francis Bacon, late Lord Chancellour of England. Wherein is shewed, 1. The power which God hath given to kings. 2. How a king ought to wear his crown. 3. To make religion the rule of government. 4. The danger in alteration of government. 5. The love which a king oweth to his subjects.</title>
+                  <author>Bacon, Francis, 1561-1626.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "Feb: 10th."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Duties --  Early works to 1800.</term>
+               <term>Prerogative, Royal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161455:1" rendition="simple:additions"/>
+            <p>XVI PROPOSITIONS</p>
+            <p>CONCERNING The Raign and Government of a <hi>KING. Propounded,</hi> by The Right Honourable, Sir FRANCIS BACON, late Lord Chancellour of ENGLAND, Wherein is ſhewed,</p>
+            <p>
+               <hi>1.</hi> The Power which God hath given to Kings. <hi>2.</hi> How a King ought to wear His Crown. <hi>3.</hi> To make Religion the Rule of Government <hi>4.</hi> The danger in alteration of Government. <hi>5.</hi> The love which a King oweth to His Subjects.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Wood.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:161455:2"/>
+            <pb n="1" facs="tcp:161455:2"/>
+            <head>XVI. P.ROPOSITIONS Concerning THE RAIGNE AND GOVERNMENT OF A KING</head>
+            <p n="1">1.</p>
+            <p>
+               <seg rend="decorInit">A</seg> KING is a Mortall God on Earth, unto whom the living God ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h lent his owne Name as a great honour; but withall told him he ſhould dy like a Man, leſt he ſhould be proud and flatter himſelf? That God hath with his Name, imparted unto him his Nature alſo.</p>
+            <p n="2">2. Of all kind of Men, God is leaſt beholding unto them, for He doth moſt for Them, and they do ordinarily leaſt for Him.</p>
+            <p n="3">3. A King that would not feele his Crown too heavy for him, muſt wear it every day; but if he think it to light, he knoweth not of what mettal it is made of.</p>
+            <pb n="2" facs="tcp:161455:3"/>
+            <p n="4">4. He muſt make Religion the Rule of Government, and not the Ballance the Scale; for he that caſteth in Religion only to make the Scales even, his own weight is contained in theſe Characters, <hi>Tekel uphraſin,</hi> he is found too light, his Kingdom ſhall be taken from him.</p>
+            <p n="5">5. And that King that holds not Religion the beſt reaſon of State, is void of all Piety and Juſtice, the Supporters of a King.</p>
+            <p n="6">6. He muſt be able to give Councell himſelf, but not to rely thereupon; for though happy Events juſtifie their Councels, yet it is better, that the evill event of good advice be rather imputed to a Subject, then a Soveraign.</p>
+            <p n="7">7. He is the Fountain of Honour, which ſhould not runne with a waſt Pipe, leaſt the Courtiers ſell the Waters, and then (as Papiſts ſay of their Holy Wels) to loſe the ver<g ref="char:EOLhyphen"/>tue.</p>
+            <p n="8">8. He is the life of the Law; not onely as He is <hi>lex lo<g ref="char:EOLhyphen"/>quens</hi> himſelf, but becauſe he animateth the dead letter, ma<g ref="char:EOLhyphen"/>king it active towards all his Subjects, <hi>premio &amp; poena.</hi>
+            </p>
+            <p n="9">9. A wiſe King muſt do leſſe in altering his Lawes, then he may, for new Government is ever dangerous, it being true in the Body Politick, as in the Corporall, that <hi>omnis ſubditi imitatio est periculoſa;</hi> and though it be for the bet<g ref="char:EOLhyphen"/>ter, yet it is not without a fearfull apprehenſion; for hee that changeth the Fundamentall Laws of a Kingdome, thin<g ref="char:EOLhyphen"/>keth that there is no good Title to a Crown, but by Con<g ref="char:EOLhyphen"/>queſt.</p>
+            <p n="10">10. A King that ſetteth to ſale Seats of Juſtice, oppreſ<g ref="char:EOLhyphen"/>ſeth the People, for he teacheth his Judge to ſell Juſtice, and <hi>precis parata precia vincitur justitia.</hi>
+            </p>
+            <p n="11">11. Bounty and magnificence are vertues very regall, but a prodigall King is neerer a Tyrant, then a Parcimonious; for ſtore at home draweth his Contemplations abroad, but
+<pb n="3" facs="tcp:161455:3"/>want ſupplyeth it felf of what is next, and many times the next way; and herein He muſt be wiſe, and know what He may juſtly do.</p>
+            <p n="12">12. That King which is not ſeared, is not loved, and hee that is well ſeen in his Craft, muſt as well ſtudy to be fea<g ref="char:EOLhyphen"/>red, as loved; yet, not loved for fear, but feared for love.</p>
+            <p n="13">13. Therefore, as He muſt alwayes reſemble Him, whoſe great Name He beareth, and that in manifeſting the ſweet influence of his mercy, over the ſevereſt ſtroke of his juſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce ſometimes, ſo in this, not to ſuffer a man of death to live; for beſides, that the land doth mourn the reſtraint of juſtice towards ſinne, doth more retard the affection of love, then the extent of mercy doth enflame it, and ſure where love is beſtowed, fear is quite loſt.</p>
+            <p n="14">14 His greateſt enemies are his flatterers, for though they ever ſpeak on his ſide, yet their words ſtill make againſt him.</p>
+            <p>The love which a King oweth to the weal publike, ſhould not be reſtrained to any one particular, yet that his more ſpeciall favour do reflect upon ſome worthy ones, is ſomewhat neceſſary, becauſe there are ſo few of that ca<g ref="char:EOLhyphen"/>pacitie.</p>
+            <p n="16">16 He muſt have a ſpeciall care of five things, if he would not have his crown to be put upon him, <hi>Infelix fe<g ref="char:EOLhyphen"/>licitatis.</hi>
+            </p>
+            <list>
+               <label>I.</label>
+               <item>Firſt, that <hi>ſimulata ſanctittas</hi> be not in the Church, for that is, <hi>duplex iniquitas.</hi>
+               </item>
+               <label>II.</label>
+               <item>That <hi>inutil is equitas</hi> ſit not in the Chancery, for that is, <hi>inepta miſericordia.</hi>
+               </item>
+               <pb n="4" facs="tcp:161455:4"/>
+               <label>III.</label>
+               <item>That <hi>utilis iniquitas</hi> keepe not the Exchequer, for that is <hi>crudele latrocinium.</hi>
+               </item>
+               <label>IV.</label>
+               <item>That <hi>fidelis timeritas</hi> be not his Generall, for that will bring but <hi>ſeram penitentiam.</hi>
+               </item>
+               <label>V.</label>
+               <item>That <hi>infidelis prudentia</hi> be not his Secretary, for that he is <hi>anguis ſub viridi herba.</hi>
+               </item>
+               <label>VI.</label>
+               <item>
+                  <p>To conclude, as he is of the greateſt Power, ſo He is ſubject to the greateſt Cares, and made the ſervant of His People, or elſe, he were without a Calling at all.</p>
+                  <p>He then that honoureth him not [being endued with theſe gifts] is next an Atheiſt, wanting the feare of God in His heart.</p>
+               </item>
+            </list>
+         </div>
+         <div type="part">
+            <head>Certain remarkable Paſſages, touching the Power and Prerogative of a <hi>KING.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>I.</head>
+               <p>THE abſolute Prerogative which is in Kings, accor<g ref="char:EOLhyphen"/>ding to their private wills and judgment, cannot be executed by any Subject; neither is it poſſible to give ſuch power by Commiſſion, or fit to ſubject the peo<g ref="char:EOLhyphen"/>ple to the ſame, for the <hi>King,</hi> in that he is the Subſtitute of
+<pb n="5" facs="tcp:161455:4"/>God, immediatly the Father of his People, and Head of the Common-wealth, hath by participation with God, and with his Subjects, a diſcretion, judgment, and feeling love to<g ref="char:EOLhyphen"/>wards thoſe over whom He reigneth, only proper to Him<g ref="char:EOLhyphen"/>ſelf, or to His Places and Perſon; who ſeeing he cannot in a<g ref="char:EOLhyphen"/>ny others infuſe his wiſdom, power or gifts, which God in reſpect of his place and charge hath enabled him withall, can neither ſubordinate any other Judge to governe by that knowledge; which the <hi>King</hi> can no otherwiſe, then by his known will participate unto him.</p>
+               <p>And if any ſuch ſubordinate Judge ſhall obtaine Com<g ref="char:EOLhyphen"/>miſſion, according to the diſcretion of ſuch a Judge to go<g ref="char:EOLhyphen"/>vern the People, that Judge is bound to think that to bee his ſound diſcretion, which the law, in which the <hi>Kings</hi> known will ſheweth unto him to be that juſtice which he ought to adminiſter; otherwiſe, he might ſeem to eſteem himſelfe above the Kings Law, who will not govern by him, or to have a power derived from other then from the King, which in the Kingdom will adminiſter juſtice contrary unto the Juſtice of the Land; neither can ſuch a Judge or Com<g ref="char:EOLhyphen"/>miſſioner, under the Name of his Authority, ſhroud his own high affection, ſeeing the Conſcience and diſcretion of every man is particular and private to himſelf, as the diſ<g ref="char:EOLhyphen"/>cretion of the Judge cannot be properly or poſſible the diſ<g ref="char:EOLhyphen"/>cretion of the Conſcience of the King, and if not his diſcre<g ref="char:EOLhyphen"/>tion, neither the judgment that is ruled by another mans on<g ref="char:EOLhyphen"/>ly.</p>
+               <p>Therfore, it may ſeem they rather deſire to be Kings; then to rule the People under the King, which will not admini<g ref="char:EOLhyphen"/>ſter Juſtice by Law, but by their own will.</p>
+            </div>
+            <div n="2" type="section">
+               <head>II.</head>
+               <p>This adminiſtration in a Subject, is derogation to the Kings Prerogative, for he adminiſtreth iuſtice out of a private di<g ref="char:EOLhyphen"/>rection, being not capable of a general direction how to uſe
+<pb n="6" facs="tcp:161455:5"/>the Kings Children in pleaſure, in caſes of particular re<g ref="char:EOLhyphen"/>ſpect, &amp;c.</p>
+               <p>And to conclude, 1. Cuſtome cannot confirme that which is any wayes unreaſonable of it ſelf.</p>
+               <p n="2">2. Wiſdome will not allow that which is many wayes dangerous, and no ways profitable.</p>
+               <p n="3">3. Juſtice will not approve that Government, where it cannot be, but wrong muſt be committed.</p>
+               <p n="4">4. Neither can there be any rule by which to try it, nor meanes of reformation of it.</p>
+               <p>Therefore, whoſoever deſireth Government, muſt ſeeke ſuch a Government as he is capable of; not ſuch as ſeemeth to himſelf moſt eaſie to execute: For it is apparent, that it is eaſie to him that knoweth not Law nor Juſtice, to rule as he liſteth his will never wanting a power to it ſelf; but it is ſafe and blameleſſe, both for the Judge and People, and ho<g ref="char:EOLhyphen"/>nour to the King, that Judges be appointed who know the Law, and that they be limited to governe according to the Law.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>J. Cranford.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
